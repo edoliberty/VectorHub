@@ -107,9 +107,9 @@
     "comment": ""
   },
   "pricing": {
-    "value": "full",
+    "value": "Free, Standard, Enterprise",
     "source_url": "https://www.pinecone.io/pricing/",
-    "comment": "Includes free tier"
+    "comment": "Free starter plan, Standard plan with usage based monthly pay-as-you-go billing"
   },
   "in_process": {
     "support": "none",
